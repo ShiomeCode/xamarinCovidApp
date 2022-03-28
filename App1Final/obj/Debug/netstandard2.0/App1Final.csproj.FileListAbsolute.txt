@@ -1,0 +1,15 @@
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\bin\Debug\netstandard2.0\App1Final.deps.json
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\bin\Debug\netstandard2.0\App1Final.dll
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\bin\Debug\netstandard2.0\ref\App1Final.dll
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\bin\Debug\netstandard2.0\App1Final.pdb
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\obj\Debug\netstandard2.0\App1Final.csprojAssemblyReference.cache
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\obj\Debug\netstandard2.0\App1Final.AssemblyInfoInputs.cache
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\obj\Debug\netstandard2.0\App1Final.AssemblyInfo.cs
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\obj\Debug\netstandard2.0\App1Final.csproj.CoreCompileInputs.cache
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\obj\Debug\netstandard2.0\App1Final.dll
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\obj\Debug\netstandard2.0\ref\App1Final.dll
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\obj\Debug\netstandard2.0\App1Final.pdb
+C:\Users\rjha.skp\Documents\Projekter\H4\AppProgrammering1\App1Final\App1Final\App1Final\obj\Debug\netstandard2.0\SearchResult.xaml.g.cs

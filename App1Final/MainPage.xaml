@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1Final.MainPage"
+             Title="Covid Case App">
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <Image Source="HealthIcon.png" HeightRequest="100" Opacity="0.5"/>
+        <Label Text="Covid Case App" FontSize="30" HorizontalOptions="Center"/>
+        
+        <Rectangle HeightRequest="50"/>
+        
+        <Picker ItemsSource="{Binding PickerItems}" SelectedIndex="{Binding index}"/>
+        <Button Text="Search" x:Name="Search" Clicked="Search_Clicked"/>
+
+        <Rectangle HeightRequest="30"/>
+        <StackLayout HorizontalOptions="Center">
+            <Label Text="Global Stats:" FontSize="22"/>
+            <Label Text="{Binding Gl_Confirmed}"/>
+            <Label Text="{Binding Gl_Recovered}"/>
+            <Label Text="{Binding Gl_Deaths}"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
